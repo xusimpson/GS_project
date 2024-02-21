@@ -39,3 +39,12 @@
      - Working on the LDA
  - John Park:
      - Finishing the scraping and try to finalize the dataset
+
+  ## 2.7 Wednesday (Professor Zheng, Professor Lang, Mingze Xu)
+ - Notes:
+     - For each author, do the profile
+     - Average the authors
+     - author level topic profile, similar to the finished LDA
+     - compare authors, create distance, make network
+     - topic profile of paired authors
+     - how people change their interest as they know each other
